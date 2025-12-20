@@ -7,17 +7,21 @@ This project helps users add, manage, and organize daily tasks efficiently with 
 
 ## 🚀 Features
 
-- ➕ Add new tasks  
-- ✅ Mark tasks as completed  
-- 🗑️ Delete tasks  
-- 🎨 Clean and responsive UI  
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 🎨 Clean and responsive UI
 - ⚡ Fast and lightweight (no frameworks)
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the app  
-- **CSS3** – Styling and layout  
+- **HTML5** – Structure of the app
+- **CSS3** – Styling and layout
 - **JavaScript (ES6)** – App functionality and logic
+
+## 📸 Screenshot
+
+![Task Manager Screenshot](task-manager.png)
 
